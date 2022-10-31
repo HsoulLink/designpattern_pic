@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T12:45:25.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="OWOJNE2Ky_rF8ReBqTV8" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T12:46:24.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="gnCzwjoWfOJUGviuidcJ" version="20.5.1" type="github">
   <diagram id="1FpJs4F8ILw2ibub9-P6" name="第 1 页">
     <mxGraphModel dx="1550" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9ar9ZnEc704UCLEwOsSq-1" value="Container" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="9ar9ZnEc704UCLEwOsSq-1" value="Composite" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="404" y="359" width="240" height="164" as="geometry" />
         </mxCell>
         <mxCell id="9ar9ZnEc704UCLEwOsSq-2" value="- children: Component[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9ar9ZnEc704UCLEwOsSq-1">
@@ -76,8 +76,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9ar9ZnEc704UCLEwOsSq-28" value="for(Component c : components) {&lt;br&gt;&amp;nbsp; c.execute()&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="270" y="585" width="230" height="55" as="geometry" />
+        <mxCell id="9ar9ZnEc704UCLEwOsSq-28" value="// 将所有工作委派给子元素&lt;br&gt;for(Component c : components) {&lt;br&gt;&amp;nbsp; c.execute()&lt;br&gt;}" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="230" height="85" as="geometry" />
         </mxCell>
         <mxCell id="9ar9ZnEc704UCLEwOsSq-29" value="Client" style="html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="110" height="50" as="geometry" />
