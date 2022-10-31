@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T12:47:12.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" version="20.5.1" etag="McJe6RWt0g6ks75oQd8A" type="github"><diagram id="93oYXS6F0fWZ3KI0hVY3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-31T13:11:15.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="rWYTLr--UMJd1SmxUI0x" version="20.5.1" type="github">
+  <diagram id="93oYXS6F0fWZ3KI0hVY3" name="第 1 页">
+    <mxGraphModel dx="1550" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kxQVH_WQUYWZ8Yr4E01S-1" value="当第三方类的调用非常复杂且庞大的时候，可以将涉及第三方的代码全部整理到一个类上，这样就避免了业务代码和第三方代码的耦合度过高的情况。这个就是外观模式" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="170" y="30" width="460" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
