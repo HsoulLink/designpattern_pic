@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T11:36:24.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="xFEh2AIJ7J25JXHpauL2" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-31T11:36:50.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.26" etag="use7bX4vQseiR1N_V4Ut" version="20.5.1" type="github">
   <diagram id="LxMQqAin8yo5kP_njmpx" name="第 1 页">
     <mxGraphModel dx="1550" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,8 +56,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ski1snLEOMTWOJ5Q2Jg2-20" value="service.service()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
-          <mxGeometry x="254" y="585" width="146" height="50" as="geometry" />
+        <mxCell id="Ski1snLEOMTWOJ5Q2Jg2-20" value="service.&lt;span style=&quot;&quot;&gt;serviceMethod&lt;/span&gt;()" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="254" y="585" width="166" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ski1snLEOMTWOJ5Q2Jg2-22" value="Client" style="html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="50" y="259" width="110" height="50" as="geometry" />
